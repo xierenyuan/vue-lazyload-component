@@ -18,9 +18,11 @@ npm i  vue-lazyload-component -S
 ```
 
 ## 参数
-> __offset__ {Number} default 10 提前 在视图中显示
-> __maskClass__ {String} default lazy-load-component-mask 遮罩默认样式 可以 通用slot 重写 遮罩
-> __loaded__  {Function} 显示后触发的回调
+> __offset__ {Number} default 10 提前 在视图中显示      
+
+> __maskClass__ {String} default lazy-load-component-mask 遮罩默认样式 可以 通用slot 重写 遮罩  
+
+> __loaded__  {Function} 显示后触发的回调  
 
 ## develop
 
